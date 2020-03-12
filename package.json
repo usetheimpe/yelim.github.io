@@ -1,0 +1,48 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usetheimpe/usetheimpe.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usetheimpe/usetheimpe.github.io/issues"
+  },
+  "homepage": "https://github.com/usetheimpe/usetheimpe.github.io#readme",
+  "dependencies": {
+    "@material/button": "^4.0.0",
+    "@material/card": "^4.0.0",
+    "@material/data-table": "^4.0.0",
+    "@material/fab": "^4.0.0",
+    "@material/ripple": "^4.0.0",
+    "@material/typography": "^4.0.0",
+    "material-components-web": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "@material/dialog": "^4.0.0",
+    "autoprefixer": "^9.7.3",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.4.0",
+    "extract-loader": "^3.1.0",
+    "file-loader": "^5.0.2",
+    "jquery": "^3.4.1",
+    "node-sass": "^4.13.0",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^8.0.0",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
