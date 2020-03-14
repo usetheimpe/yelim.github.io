@@ -366,7 +366,7 @@ $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
 $background: #fff;
-$background-alt: #f2f2f5;
+$background-alt: #f4f6f7;
 
 // Define border colors
 $border: #dcd9d9;
@@ -429,7 +429,7 @@ body {
             background: $background;
             padding: 10px;
             margin-bottom: 10px;
-            border: 1px solid $border;
+            //border: 1px solid $border;
 
             h3 {
                 font-size: 1.5em;
@@ -829,7 +829,7 @@ footer {
     display: block;
     margin-top: 10px;
     padding: 75px 15px;
-    border-bottom: 1px solid $border;
+    //border-bottom: 1px solid $border;
 
     h2 {
         color: $heading;
@@ -947,7 +947,7 @@ footer {
 .vtimeline-content {
     margin-left: 350px;
     background: #fff;
-    border: 1px solid #e6e6e6;
+    //border: 1px solid #e6e6e6;
     padding: 15px;
     border-radius: 3px;
     text-align: left;
@@ -1050,7 +1050,7 @@ footer {
     max-width: 700px;
     margin: 0 auto 30px auto;
     padding: 15px;
-    border: 1px solid $border;
+    //border: 1px solid $border;
     text-align: left;
 
     h3 {
@@ -1278,7 +1278,7 @@ footer {
     max-width: 700px;
     margin: 0 auto 30px auto;
     padding: 15px;
-    border: 1px solid $border;
+    //border: 1px solid $border;
     background: #fff;
     text-align: left;
 
