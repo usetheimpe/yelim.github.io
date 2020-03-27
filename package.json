@@ -26,6 +26,7 @@
     "@material/fab": "^4.0.0",
     "@material/ripple": "^4.0.0",
     "@material/typography": "^4.0.0",
+    "masonry-layout": "^4.2.2",
     "material-components-web": "^4.0.0"
   },
   "devDependencies": {
